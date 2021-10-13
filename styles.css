@@ -106,7 +106,7 @@ section .contents{
 }
 
 .home .contents .left{
-    width: 35%;
+    /* width: 35%; */
     display: flex;
     flex-direction: column;
 }
@@ -173,7 +173,7 @@ section .left .button button{
 }
 
 .home .content .right{
-    width: 65%;
+    /* width: 65%; */
     color: #BD9354;
     display: flex;
     position: relative;
