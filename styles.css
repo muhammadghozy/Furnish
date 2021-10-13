@@ -207,7 +207,7 @@ section .left .button button{
 
 /* Benefit Content */
 .benefit{
-    height: 60vh;
+    /* height: 60vh; */
 }
 .benefit .top{
     margin-top: 100px;
@@ -294,7 +294,7 @@ section .content-title{
 .arrival .contents{
     /* background: red; */
     height: 350px;
-    margin-top: 80px;
+    margin-top: 250px;
     position: relative;
 }
 
@@ -451,7 +451,7 @@ section .content-title{
 
 /* Clients */
 .clients{
-    height: 80vh;
+    /* height: 80vh; */
 }
 .clients .contents{
     margin-top: 100px;
@@ -565,11 +565,11 @@ section .content-title{
 
 /* Contact Us */
 .contact{
-    height: 90vh;
+    /* height: 90vh; */
 }
 
 .contact .background{
-    margin-top: 100px;
+    margin-top: 500px;
     height: 455px;
     background: rgba(255, 219, 165, 0.6);
 }
@@ -622,7 +622,8 @@ section .content-title{
 
 /* Footer */
 .footer{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
+    margin-top: 100px;
 }
 
 .footer .title{
