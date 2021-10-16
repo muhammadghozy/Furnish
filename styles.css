@@ -714,8 +714,11 @@ section .content-title{
 
 /* Privacy */
 .privacy{
-    width: 100%;
+    width: 90%;
+    margin: auto;
     padding: 20px;
+    display: flex;
+    justify-content: center;
     /* background: red; */
 }
 
@@ -724,5 +727,4 @@ section .content-title{
     font-weight: 400;
     font-family: 'Roboto';
     color: #85603F;
-    margin-left: 40%;
 }
